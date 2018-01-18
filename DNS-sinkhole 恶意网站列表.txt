@@ -1,0 +1,96 @@
+@中国常见恶意网站列表——核心列表——04
+@列表名称 name:DNS-sinkhole 恶意网站列表
+@列表原网站 website：http://malc0de.com/bl/
+@更新日期 date:20180118
+@条目数 large:84
+
+
+// This file will be automatically updated daily and populated with the last 30 days of malicious domains.
+// It will return 127.0.0.1 for all domains found to be distributing malware
+// Additional information to get this working can be found http://www.malwaredomains.com/wordpress/?page_id=6
+// Last updated 2018-01-17	
+
+bit-chasers.com
+ecommesaa.org
+github.com
+homerbongasi.com
+cfecgcaquitaine.com
+beget.tech
+pragmaticinquiry.org
+ssrdevelopments.co.za
+zavierdesign.com
+dougsunlimited.com
+2-wave.com
+3e.com.pt
+atakan.com
+bodywork-sf.net
+brendo.biz
+depomedikal.com
+dynatec-online.com
+foxcabinets.com
+hwayou.com.tw
+neosophy.org
+ragazzemessenger.com
+rentwestq.com
+smarterbaby.com
+eagleepicsocks.com
+emmabeckerle.com
+gilgroup.com
+gug-gummi.com
+ktm24.pw
+mcwhorterdesign.com
+seffafkartvizitim.com
+tuminsaat.com
+asianacademicresearch.org
+bodyprecinct.com.au
+just-scarves.com
+nettoyage-plafond.com
+multifunctionaltechnology.com
+shopstation.com.au
+upperlensmagazine.com
+thecryptopeople.com
+dlamure.com
+ramelograna.com
+tiendatresort.com.vn
+3dpvietnam.com
+berkahbajamakmur.com
+creativeraven.com
+damynghedunglinh.com
+eapsaacademy.org
+iplay2pass.com
+jestkidding.com
+middleearthstudios.com
+rocketmining.com
+cfanetwork.org
+onion.link
+hdhjeuehujwghqjejfejd.club
+umunna.info
+asiachern-tx.com
+leonstafford.com
+mrsteamers.com
+birlaestates.com
+kickassgrowth.com
+motoclubfojeteiros.com
+willardwiganmbe.com
+wingateave.com.au
+thainhp.org
+adimma.xyz
+kamyn9ka.com
+thronetradlng.com
+eastar-tw.com
+itgpll.com
+mosoli.com
+oracellbd.com
+ourmobilepcs.com
+reyplastica.com
+stainlessengineeringintl.com
+urbantechits.com
+i-tony.net
+bradlack12.ru
+icilarache.com
+adobe-update.info
+usdipc.com
+a1company.dp.ua
+lesfaverelles.com
+eastcoastrest.com
+wehrmachtluftwaffe3213.ru
